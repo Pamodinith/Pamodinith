@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Developer from Sri Lanka</h3>
 
 
+
 👨‍💻 Python Programmer | 🌐 Web Developer | 📚 Lifelong Learner
 
 🔭 Currently exploring the depths of Python and diving into the world of web development.
