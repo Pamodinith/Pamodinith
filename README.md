@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinith Pamoda</h1>
 <h3 align="center">A Passionate Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pamodinith&label=Profile%20views&color=0e75b6&style=flat" alt="pamodinith" /> </p>
 
 👨‍💻 Python Programmer | 🌐 Web Developer | 📚 Lifelong Learner
 
